@@ -1,0 +1,15 @@
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.csproj.AssemblyReference.cache
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.AssemblyInfoInputs.cache
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.AssemblyInfo.cs
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.csproj.CoreCompileInputs.cache
+C:\Users\lj\Desktop\git\les0307\task646668\bin\Debug\net7.0\task646668.exe
+C:\Users\lj\Desktop\git\les0307\task646668\bin\Debug\net7.0\task646668.deps.json
+C:\Users\lj\Desktop\git\les0307\task646668\bin\Debug\net7.0\task646668.runtimeconfig.json
+C:\Users\lj\Desktop\git\les0307\task646668\bin\Debug\net7.0\task646668.dll
+C:\Users\lj\Desktop\git\les0307\task646668\bin\Debug\net7.0\task646668.pdb
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.dll
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\refint\task646668.dll
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.pdb
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\task646668.genruntimeconfig.cache
+C:\Users\lj\Desktop\git\les0307\task646668\obj\Debug\net7.0\ref\task646668.dll
